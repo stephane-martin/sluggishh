@@ -1,3 +1,7 @@
+/sluggissh
+/sluggissh-debug
+/token
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
